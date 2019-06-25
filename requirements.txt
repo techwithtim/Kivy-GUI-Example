@@ -1,0 +1,3 @@
+kivy
+ffplayer
+pygame
