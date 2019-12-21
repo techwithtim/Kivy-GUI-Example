@@ -23,7 +23,7 @@ Windows:
 
 You can also run Kivy-GUI-Example in Gitpod, a free online dev environment for GitHub:
 
-If you're intersted in a paid subscription with GitPod use the coupon code: TECHWITHTIM2FQBMX
+If you're intersted in a paid subscription with GitPod use the coupon code: TECHWITHTIM19
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/Kivy-GUI-Example/blob/master/main.py)
 
